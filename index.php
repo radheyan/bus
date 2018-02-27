@@ -71,7 +71,7 @@ $querry= $sql->query("select * from test where 1");
                 <table class="table">
                     <thead>
                         <tr>
-                        <th>Bus Number</th>
+                        <th>Bus No</th>
                         <th>From</th>
                         <th>Destination</th>
                         <th>ETA</th>
